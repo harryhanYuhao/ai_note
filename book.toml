@@ -1,0 +1,5 @@
+[book]
+authors = ["Yuhao Han"]
+language = "en"
+src = "src"
+title = "AI Note"
